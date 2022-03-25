@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "xvJG0Nxi6tYtj01HgxrdTTvvyPhyMXq2vVjuGn+eB8isKezc7WJmgDdmlf7cbU/cacGE7ypyScYc52RKZA4H0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiska\\source\\repos\\SeleniumRPA\\SeleniumRPA\\SeleniumRPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiska\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.1\\microsoft.netcore.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.1\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.1.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.1\\microsoft.aspnetcore.app.runtime.win-x86.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

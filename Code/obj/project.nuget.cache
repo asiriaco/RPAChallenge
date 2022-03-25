@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RSR0iCXksKv3WAcARofUsON1H0L1+O6mxF3m1gee2CsqoH/EH8PmnqwcAZh8nBXr0BDZhjCXx4QU7QLlRH7Tvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fiska\\source\\repos\\SeleniumRPA\\SeleniumRPA\\SeleniumRPA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fiska\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\fiska\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.8000\\selenium.webdriver.chromedriver.98.0.4758.8000.nupkg.sha512"
+  ],
+  "logs": []
+}
